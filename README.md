@@ -1,4 +1,7 @@
 "# kaladentie" 
+
+mern (mongodb,express.js,react.js,node.js) project
+
 The project aims to build a web-based system for interaction between dental students and patients at Al-Qalamoun University by facilitating and improving the procedures for booking and managing appointments, simplifying and facilitating the communication process between students and patients, and providing an easy-to-use interface for users to achieve quality healthcare for patients at the Faculty of Dentistry at Al-Qalamoun University.
 This project introduced a system to automate the communication process between dental students and patients. It allows patients to send a request to a specific student and allows each student to view available patient cases. This system helps to:
 • Facilitate communication and coordination between students and patients.
