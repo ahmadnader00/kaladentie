@@ -1,0 +1,26 @@
+@import url(app.css);
+
+.notif-section {
+  display: flex; 
+  flex-direction: column; 
+  height: 100vh;
+}
+.section {
+  flex: 1; 
+ 
+}
+.disable-btn {
+  cursor: no-drop;
+}
+
+.disable-btn:hover {
+  background-color: rgba(0, 128, 0, 0.528) !important;
+}
+.disable-btnn {
+  cursor: no-drop;
+}
+
+.disable-btnn:hover {
+  background-color: rgb(218, 13, 54) !important;
+}
+
