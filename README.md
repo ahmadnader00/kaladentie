@@ -92,11 +92,10 @@ Which is shown in the figure
 In this interface, a table containing all the appointments of the selected student is displayed, and a button to choose the date.
 Users can click on the bookappoinment button to book the appointment for the specified date and time.
 
-
+After selecting the desired student, the available appointments for the student are selected, and an X-ray image must be attached.
 
 ![Capture](https://github.com/user-attachments/assets/155b2978-411c-4df3-8385-376631f650a3)
 
-After selecting the desired student, the available appointments for the student are selected, and an X-ray image must be attached.
 ![accept](https://github.com/user-attachments/assets/f38943a4-bbf8-42f1-90fe-454b4a07083d)
 
 
