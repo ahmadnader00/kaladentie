@@ -37,7 +37,6 @@ For our system, the functions that will be implemented are:
 • View reservation status (approved or not).
 • Book an appointment.
 • View alerts.
-5
 • Edit patient profile.
 • Send student registration request to system administrator.
 • Log out.
@@ -97,7 +96,12 @@ Users can click on the bookappoinment button to book the appointment for the spe
 
 ![Capture](https://github.com/user-attachments/assets/155b2978-411c-4df3-8385-376631f650a3)
 
-This interface is intended for visitors who wish to register as users (patients or students), shown in Figure (4-4).
+After selecting the desired student, the available appointments for the student are selected, and an X-ray image must be attached.
+![accept](https://github.com/user-attachments/assets/f38943a4-bbf8-42f1-90fe-454b4a07083d)
+
+
+
+This interface is intended for visitors who wish to register as users (patients or students), shown in Figure.
 5). When the registration interface opens, visitors can create a new account on the application. It requires the visitor to enter information
 Personal information such as first name, last name, and email, in addition to creating and confirming a password. In addition
 A personal photo of the user. After filling out all the required fields, the visitor can press the UP SIGN button to complete
@@ -186,19 +190,20 @@ Time selection field: Allows the user to select the time.
 ![Capture](https://github.com/user-attachments/assets/6af94325-a364-497c-b348-ec84e0779429)
 
 
-This interface helps the student to view and manage his own appointments. The interface consists of a table containing all his appointments that he can either accept or reject as shown in Figure (12-4):
+This interface helps the student to view and manage his own appointments. The interface consists of a table containing all his appointments that he can either accept or reject as shown in Figure:
 • (Students): The name of the student concerned in the appointment.
 • (Patient): The name of the patient who booked the appointment.
 • (Date Appointment): The date of the appointment.
 • (Time Appointment): The time of the appointment.
 • (Date Booking): The date of the appointment.
-39
 • (Time Booking): The time of the appointment.
 • (Status): The status of the appointment.
 • (Action): It contains two buttons: (ACCEPT) and (REJECT) to accept or reject the appointment.
 
+![accept](https://github.com/user-attachments/assets/8b4c4942-d1cc-47a0-a9e9-579ae53346dc)
+![reject](https://github.com/user-attachments/assets/d7e58af9-c611-4ce7-87c0-276bd74ea8c9)
 
-![Capture](https://github.com/user-attachments/assets/c7153b93-23c3-4d9f-8154-94f1b32efee6)
+
 
 
 This interface shows a list of notifications that help the student. The interface consists of the following elements as shown in Figure (13-4).
