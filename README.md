@@ -174,12 +174,129 @@ Once the personal information is updated, the changes will be saved and the user
 ![Capture](https://github.com/user-attachments/assets/ccb86a70-4b0a-4bb2-8d70-266d6f893129)
 
 
+This interface is for the student to add the appropriate date and time for the student. It helps the student to add all the appropriate times for him. The interface consists of the following elements as shown in Figure (11-4):
+Date selection field: Allows the user to select the date.
+Time selection field: Allows the user to select the time.
+(ADD) button: Once this button is pressed, the specified date and time are added.
 
 
 
 
 
+![Capture](https://github.com/user-attachments/assets/6af94325-a364-497c-b348-ec84e0779429)
 
+
+This interface helps the student to view and manage his own appointments. The interface consists of a table containing all his appointments that he can either accept or reject as shown in Figure (12-4):
+• (Students): The name of the student concerned in the appointment.
+• (Patient): The name of the patient who booked the appointment.
+• (Date Appointment): The date of the appointment.
+• (Time Appointment): The time of the appointment.
+• (Date Booking): The date of the appointment.
+39
+• (Time Booking): The time of the appointment.
+• (Status): The status of the appointment.
+• (Action): It contains two buttons: (ACCEPT) and (REJECT) to accept or reject the appointment.
+
+
+![Capture](https://github.com/user-attachments/assets/c7153b93-23c3-4d9f-8154-94f1b32efee6)
+
+
+This interface shows a list of notifications that help the student. The interface consists of the following elements as shown in Figure (13-4).
+(Content): Shows the content that describes the type of notification (student acceptance, appointments accepted by the student).
+(Date): Shows the date the notification was received.
+(Time): Shows the time the notification was received.
+Notifications include information such as acceptance of the request, scheduled appointments, and acceptance of appointments. This interface helps the student track and organize notifications effectively.
+
+![Capture](https://github.com/user-attachments/assets/18863a23-44d0-4a24-aa59-afcb27aeed35)
+
+
+This interface shows the control panel for the supervisor’s account. It helps the supervisor to manage the application effectively. The interface consists of the following elements. Figure (14-4) The supervisor’s control panel.
+• Home: The supervisor can return to the home page through this option.
+• Users: The supervisor can manage user accounts through this option.
+• Students: The supervisor can manage student accounts through this option.
+• Appointments: The supervisor can manage appointments through this option.
+• Applications: The supervisor can manage student requests through this option.
+• StudentsTimes: The supervisor can manage doctor’s times through this option.
+• Profile: The supervisor can update his/her personal account information through this option.
+• Logout: The supervisor can log out of his/her account through this option.
+
+
+
+![Capture](https://github.com/user-attachments/assets/bba404f2-7a23-49d6-a59c-fab6633c76a4)
+
+
+This interface helps the supervisor to manage users and shows a list of all users in the system, whether patients or students. The supervisor can search for a specific user through it, in addition to the ability to delete a user. The interface consists of the following elements as shown in Figure (15-4).
+• (Search): The supervisor can use the search bar to search for specific users.
+• (Pic): Shows the user's picture.
+• (Name First): Shows the user's first name.
+• (Name Last): Shows the user's last name.
+42
+• (Email): Shows the user's email.
+• (No Mobile): Shows the user's mobile number.
+• (Age): Shows the user's age.
+• (Gender): Shows the user's gender.
+• (Doctor Is): Shows whether the user is a student or not.
+• (Remove): Contains a button to delete the user from the list.
+
+![Capture](https://github.com/user-attachments/assets/57c791ed-74ed-4045-9664-3e07fb512265)
+
+
+This interface shows a list of all students in the system and helps the supervisor manage the student effectively. The supervisor can use it to delete a student or search for a specific student. The interface consists of the following elements, as shown in Figure .
+• Search bar: The supervisor can use the search bar to search for specific students.
+• (Pic): Shows the student’s picture.
+• (Name First): Shows the student’s first name.
+• (Name Last): Shows the student’s last name.
+• (Email): Shows the student’s email.
+• (No Mobile): Shows the student’s mobile number.
+• (studenttid): Shows the student’s number.
+• (Year): Shows the student’s year of study.
+• (Remove): Contains a button to delete the student from the list.
+• (studenttid): Displays the student number.
+• (Year): Displays the student's year of study.
+• (Remove): Contains a button to delete the student from the list.
+
+![Capture](https://github.com/user-attachments/assets/4fbbdd42-0e54-4293-a924-337317d319bb)
+
+This interface shows a list of all appointments and helps the supervisor to track them. The interface consists of the following elements
+as shown in Figure .
+• (No.S): The sequence number for each appointment is shown.
+• (Doctor): The name of the student concerned in the appointment is shown.
+• (Patient): The name of the patient who booked the appointment is shown.
+• (Date Appointment): The date of the appointment is shown.
+• (Time Appointment): The time of the appointment is shown.
+• (Date Booking): The date of the appointment is shown.
+• (Time Booking): The time of the appointment is shown.
+• (Status): The status of the appointment is shown.
+
+![Capture](https://github.com/user-attachments/assets/9f26c319-421c-433e-b132-ac7985ea2a6f)
+
+This interface shows a list of all applications submitted by users who wish to become a student in the system. This interface helps the supervisor manage applications and verify the information of potential students. The interface consists of the following elements as shown in Figure.
+• (Name First): The first name of the user who submitted the application appears.
+• (Name Last): The last name of the user who submitted the application appears.
+• (Email): The email of the user who submitted the application appears.
+• (No Mobile): The mobile number of the user who submitted the application appears.
+• (studentid): The student ID provided by the user appears.
+• (year): The year of study provided by the user appears.
+• (Action): It contains two buttons (ACCEPT) and (REJECT) to accept or reject the application.
+
+![Capture](https://github.com/user-attachments/assets/25354b96-ab1b-4677-8b58-f21eee066c90)
+
+
+
+This interface shows a list of all student times. The supervisor can delete only the unbooked times (available).
+The interface consists of the following elements:
+• Search bar: The supervisor can use the search bar to search for a specific appointment.
+• (No.S): The sequence number for each time is displayed.
+• (Name Doctor): The name of the doctor is displayed.
+• (Time): The time of the appointment is displayed.
+• (Date): The date of the appointment is displayed.
+• (State): The status of the appointment, true or false).
+• (Remove): It contains a button to delete the time from the list.
+The different statuses for appointments are:
+• True: It means that the time is available.
+• False: It means that the time is not available.
+
+![Capture](https://github.com/user-attachments/assets/da4e25ea-1cf9-4f6b-8473-ea5354a98078)
 
 
 
