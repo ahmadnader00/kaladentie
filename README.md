@@ -53,3 +53,7 @@ Non-functional requirements are constraints imposed on the system that define it
 • Ease of use: The system is easy to use and includes simple and clear user interfaces.
 • Modification: The system can be modified and improved when needed, to better meet the needs of users.
 • Security: Each user logs in and users' passwords are encrypted.
+
+
+
+
