@@ -48,7 +48,7 @@ For our system, the functions that will be implemented are:
 
 Non-functional requirements are constraints imposed on the system that define its quality attributes. Non-functional requirements are important because they help ensure that the system meets the user's needs. The following are the non-functional requirements for the proposed system:
 • Interfaces that are compatible with all different device screens.
-• Speed: The js.react library was used, which will be explained in Chapter 3.
+• Speed: The js.react library was used.
 • Compatibility: The system is compatible with different browsers and devices.
 • Ease of use: The system is easy to use and includes simple and clear user interfaces.
 • Modification: The system can be modified and improved when needed, to better meet the needs of users.
