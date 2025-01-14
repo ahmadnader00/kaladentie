@@ -83,25 +83,21 @@ Get to know the student and choose the student they want to book an appointment 
 When the BOOKAPPOINTMENT button is clicked, users are directed to the appointment booking interface. If the person
 If a visitor is a visitor, an error message will appear (in log you must). If he is a registered user, he will be directed to the appointment booking interface.
 Which is shown in the figure
+In this interface, a table containing all the appointments of the selected student is displayed, and a button to choose the date.
+Users can click on the bookappoinment button to book the appointment for the specified date and time.
 
+After selecting the desired student, the available appointments for the student are selected, and an X-ray image must be attached.
+![all date](https://github.com/user-attachments/assets/01bbff83-e89b-4658-aca1-4024e9659c1e)
 
 ![image](https://github.com/user-attachments/assets/fdda7e66-bf9e-4ede-bedf-e51d4293c65b)
 
 
 
-In this interface, a table containing all the appointments of the selected student is displayed, and a button to choose the date.
-Users can click on the bookappoinment button to book the appointment for the specified date and time.
-
-After selecting the desired student, the available appointments for the student are selected, and an X-ray image must be attached.
-
-![Capture](https://github.com/user-attachments/assets/155b2978-411c-4df3-8385-376631f650a3)
-
-![accept](https://github.com/user-attachments/assets/f38943a4-bbf8-42f1-90fe-454b4a07083d)
 
 
 
 This interface is intended for visitors who wish to register as users (patients or students), shown in Figure.
-5). When the registration interface opens, visitors can create a new account on the application. It requires the visitor to enter information
+. When the registration interface opens, visitors can create a new account on the application. It requires the visitor to enter information
 Personal information such as first name, last name, and email, in addition to creating and confirming a password. In addition
 A personal photo of the user. After filling out all the required fields, the visitor can press the UP SIGN button to complete
 Registration process.
