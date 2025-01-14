@@ -80,6 +80,15 @@ Get to know the student and choose the student they want to book an appointment 
 
 ![Capture](https://github.com/user-attachments/assets/559121c7-1acc-49c8-bf18-02a09218e9fb)
 
+
+This interface is dedicated to displaying information about students registered in the application. The information is displayed in cards containing the student’s name, academic year, email and a button to book an appointment. In each card, users can click on the APPPOINTMENT BOOK button to book an appointment with the student in question. This section helps patients to identify the student and choose the student they want to book an appointment with as shown in Figure (3-4).
+
+
+
+![Capture](https://github.com/user-attachments/assets/47ca5ee2-cd16-435a-9380-8473c604d428)
+
+
+
 When the BOOKAPPOINTMENT button is clicked, users are directed to the appointment booking interface. If the person
 If a visitor is a visitor, an error message will appear (in log you must). If he is a registered user, he will be directed to the appointment booking interface.
 Which is shown in the figure
@@ -87,13 +96,18 @@ In this interface, a table containing all the appointments of the selected stude
 Users can click on the bookappoinment button to book the appointment for the specified date and time.
 
 After selecting the desired student, the available appointments for the student are selected, and an X-ray image must be attached.
-![all date](https://github.com/user-attachments/assets/01bbff83-e89b-4658-aca1-4024e9659c1e)
 
-![image](https://github.com/user-attachments/assets/fdda7e66-bf9e-4ede-bedf-e51d4293c65b)
-
+![Capture](https://github.com/user-attachments/assets/3ffb73eb-1890-4950-b46c-290551178b9a)
 
 
 
+When the (BOOKAPPOINTMENT) button is pressed, users are directed to the appointment booking interface. If the person is a visitor, he/she will receive an error message (in log you must), but if he/she is a registered user, he/she will be directed to the appointment booking interface which is shown in Figure (4-4). In this interface, a table is displayed containing all the appointments for the selected student, and a button to select the date. Users can press the (bookappoinment) button to book the appointment on the specified date and time.
+
+![Capture](https://github.com/user-attachments/assets/a454ae29-3a4b-4243-b149-51d3e06376d1)
+
+After selecting the desired student, the available appointments for the student are selected, and an X-ray image must be attached.
+
+![all date](https://github.com/user-attachments/assets/63a6a333-1366-4380-89b6-f54b2754e8f5)
 
 
 This interface is intended for visitors who wish to register as users (patients or students), shown in Figure.
