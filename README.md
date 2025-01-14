@@ -55,5 +55,30 @@ Non-functional requirements are constraints imposed on the system that define it
 • Security: Each user logs in and users' passwords are encrypted.
 
 
+We'll dive into the details of the app's main interfaces and how users interact with them. We will also review
+How can these interfaces facilitate communication between students and patients and improve appointment booking procedures? Main goal
+The purpose of this chapter is to explain how application design can contribute to achieving quality health care for patients of the College of Dentistry
+At the University of Kalamoon
+
+
+The main interface of the web application consists of four components (Home), (Students), (login), (Signup) where
+You can navigate between these components using the Navbar, which is the bar located at the top of the page, as shown
+The following figure
+
+(detailes): This section contains an overview of the Faculty of Dentistry at Kalamoon University.
+• (AboutUs): This section provides detailed information about the application’s outstanding services to patients by students
+Under the supervision of a team of professors who possess scientific and practical experience.
+• (Footer): This section contains contact information for Qalamoun Private University.
+
+
+![Capture](https://github.com/user-attachments/assets/21fa9cf4-b6e8-4728-b73e-5a13a015737f)
+
+
+
+
+
+
+
+
 
 
