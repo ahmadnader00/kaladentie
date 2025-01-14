@@ -81,7 +81,7 @@ Get to know the student and choose the student they want to book an appointment 
 ![Capture](https://github.com/user-attachments/assets/559121c7-1acc-49c8-bf18-02a09218e9fb)
 
 
-This interface is dedicated to displaying information about students registered in the application. The information is displayed in cards containing the student’s name, academic year, email and a button to book an appointment. In each card, users can click on the APPPOINTMENT BOOK button to book an appointment with the student in question. This section helps patients to identify the student and choose the student they want to book an appointment with as shown in Figure (3-4).
+This interface is dedicated to displaying information about students registered in the application. The information is displayed in cards containing the student’s name, academic year, email and a button to book an appointment. In each card, users can click on the APPPOINTMENT BOOK button to book an appointment with the student in question. This section helps patients to identify the student and choose the student they want to book an appointment with as shown in Figure .
 
 
 
@@ -99,12 +99,6 @@ After selecting the desired student, the available appointments for the student 
 
 ![Capture](https://github.com/user-attachments/assets/3ffb73eb-1890-4950-b46c-290551178b9a)
 
-
-
-When the (BOOKAPPOINTMENT) button is pressed, users are directed to the appointment booking interface. If the person is a visitor, he/she will receive an error message (in log you must), but if he/she is a registered user, he/she will be directed to the appointment booking interface which is shown in Figure (4-4). In this interface, a table is displayed containing all the appointments for the selected student, and a button to select the date. Users can press the (bookappoinment) button to book the appointment on the specified date and time.
-
-![Capture](https://github.com/user-attachments/assets/a454ae29-3a4b-4243-b149-51d3e06376d1)
-
 After selecting the desired student, the available appointments for the student are selected, and an X-ray image must be attached.
 
 ![all date](https://github.com/user-attachments/assets/63a6a333-1366-4380-89b6-f54b2754e8f5)
@@ -120,7 +114,7 @@ Registration process.
 
 This interface is intended for registered users (admin, patients, students) who wish to log in
 to their accounts. Users can enter their email and password to access their accounts. After entering
-Email and password, the user can press the IN SIGN button to log in as in Figure (6-4).
+Email and password, the user can press the IN SIGN button to log in as in Figure.
 If the user is not registered, he can click on the link (Register? user a Not) to go to the registration page.
 
 ![Capture](https://github.com/user-attachments/assets/3a0eade0-49df-456e-a1db-64bd5ea8ad3e)
@@ -159,7 +153,7 @@ The notifications are detailed, indicating the appointment booking, including da
 ![Capture](https://github.com/user-attachments/assets/91730299-0c38-4df3-9843-2b0d315c719b)
 
 
-This interface is a form to submit a request to convert the user account to a student account (i.e. the user is a student in the College of Dentistry). The interface consists of the following elements as shown in Figure (9-4):
+This interface is a form to submit a request to convert the user account to a student account (i.e. the user is a student in the College of Dentistry). The interface consists of the following elements as shown in Figure:
 • Student ID entry field: allows the student to enter his/her ID.
 • Study year entry field: allows the student to enter the current year of study.
 • APPLY button: Once this button is pressed, the request is sent to the application supervisor.
@@ -187,7 +181,7 @@ Once the personal information is updated, the changes will be saved and the user
 ![Capture](https://github.com/user-attachments/assets/ccb86a70-4b0a-4bb2-8d70-266d6f893129)
 
 
-This interface is for the student to add the appropriate date and time for the student. It helps the student to add all the appropriate times for him. The interface consists of the following elements as shown in Figure (11-4):
+This interface is for the student to add the appropriate date and time for the student. It helps the student to add all the appropriate times for him. The interface consists of the following elements as shown in Figure :
 Date selection field: Allows the user to select the date.
 Time selection field: Allows the user to select the time.
 (ADD) button: Once this button is pressed, the specified date and time are added.
@@ -215,7 +209,7 @@ This interface helps the student to view and manage his own appointments. The in
 
 
 
-This interface shows a list of notifications that help the student. The interface consists of the following elements as shown in Figure (13-4).
+This interface shows a list of notifications that help the student. The interface consists of the following elements as shown in Figure .
 (Content): Shows the content that describes the type of notification (student acceptance, appointments accepted by the student).
 (Date): Shows the date the notification was received.
 (Time): Shows the time the notification was received.
@@ -224,7 +218,7 @@ Notifications include information such as acceptance of the request, scheduled a
 ![Capture](https://github.com/user-attachments/assets/18863a23-44d0-4a24-aa59-afcb27aeed35)
 
 
-This interface shows the control panel for the supervisor’s account. It helps the supervisor to manage the application effectively. The interface consists of the following elements. Figure (14-4) The supervisor’s control panel.
+This interface shows the control panel for the supervisor’s account. It helps the supervisor to manage the application effectively. The interface consists of the following elements. Figure The supervisor’s control panel.
 • Home: The supervisor can return to the home page through this option.
 • Users: The supervisor can manage user accounts through this option.
 • Students: The supervisor can manage student accounts through this option.
@@ -239,7 +233,7 @@ This interface shows the control panel for the supervisor’s account. It helps 
 ![Capture](https://github.com/user-attachments/assets/bba404f2-7a23-49d6-a59c-fab6633c76a4)
 
 
-This interface helps the supervisor to manage users and shows a list of all users in the system, whether patients or students. The supervisor can search for a specific user through it, in addition to the ability to delete a user. The interface consists of the following elements as shown in Figure (15-4).
+This interface helps the supervisor to manage users and shows a list of all users in the system, whether patients or students. The supervisor can search for a specific user through it, in addition to the ability to delete a user. The interface consists of the following elements as shown in Figure.
 • (Search): The supervisor can use the search bar to search for specific users.
 • (Pic): Shows the user's picture.
 • (Name First): Shows the user's first name.
